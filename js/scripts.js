@@ -1,0 +1,6 @@
+// Scripts
+
+$().ready(function() {
+  //Init
+  
+});
